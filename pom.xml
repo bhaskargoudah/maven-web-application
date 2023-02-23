@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.213.35.118:9980/mithuntechnologies/repository/hdfcabank-release/</url>
+	      <name>jenkins Releases Nexus Repository</name>
+	      <url>http://3.110.121.136:8081/repository/jenkins-rele/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.213.35.118:9980/mithuntechnologies/repository/hdfcbank-snapshot/</url>
+	      <name>jenkins Snapshot Nexus Repository </name>
+	      <url>http://3.110.121.136:8081/repository/jenkins-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
