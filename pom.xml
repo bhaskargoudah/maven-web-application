@@ -96,13 +96,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>jenkins Releases Nexus Repository</name>
+	      <name>jenkins-rele</name>
 	      <url>http://3.110.121.136:8081/repository/jenkins-rele/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>jenkins Snapshot Nexus Repository </name>
+	      <name>jenkins-snap</name>
 	      <url>http://3.110.121.136:8081/repository/jenkins-snap/</url>
 	    </snapshotRepository>
 	    
