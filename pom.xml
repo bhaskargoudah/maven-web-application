@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>jenkins-rele</name>
-	      <url>http://3.110.121.136:8081/repository/jenkins-rele/</url>
+	      <name>fb-rele</name>
+	      <url>http://3.111.42.142:8081/repository/fb-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>jenkins-snap</name>
-	      <url>http://3.110.121.136:8081/repository/jenkins-snap/</url>
+	      <name>fd-snap</name>
+	      <url>http://3.111.42.142:8081/repository/fb-snapshort/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
